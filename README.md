@@ -3,6 +3,12 @@ Abstract:
 Malaria has been a challenge in the tropical and subtropical countries and therefore it is necessary to take necessary steps to detect and control the disease. The existing methods such as microscopy require a lot of expertise. Convolution Neural Network has been proposed in order to detect and classify the single image as either infected or uninfected. 
 By applying fully trained CNN using keras achieved 94% accuracy. Also we have applied ResNet-50 model which is pretrain model.
 
+Insight to the uninfected dataset
+![](https://github.com/harshini-sewani/Malaria-Dectection/blob/master/Images/fig12.png)
+
+Insight to the infected dataset
+![](https://github.com/harshini-sewani/Malaria-Dectection/blob/master/Images/fig11.png)
+
 Here is Proposed Architecture for Fully trained CNN:
 ![Proposed Architecture](https://github.com/harshini-sewani/Malaria-Dectection/blob/master/Images/fig4.png)
 
